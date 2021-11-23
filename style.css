@@ -1,0 +1,59 @@
+h1{
+    text-align: center;
+    color: brown;
+    padding-top: 60px;
+}
+
+h2 {
+    color: black;
+}
+
+body p{
+    text-align: center;
+    color: blanchedalmond;
+}
+
+body {
+    margin:0 auto;
+    width: 1200px;
+    background-color: black;
+}
+
+body img {
+    margin: 0 0 0 0;
+}
+
+
+.imgCenter{
+    text-align: center;
+}
+
+nav{
+    
+    text-align: center;
+    background-color: red;
+}
+
+nav ul li{
+    display: inline;
+}
+
+nav ul li a{
+    text-decoration: none;
+    margin-right: 20px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 1px black;
+}
+
+nav ul li a:hover {
+    color: black;
+    background: blue;
+    
+}
+
+body footer{
+    background-color: red;
+    text-align: center;
+    text-decoration: black;
+    height: 90%;
+}
