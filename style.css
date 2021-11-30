@@ -10,7 +10,7 @@ h2 {
 
 body p{
     text-align: center;
-    color: blanchedalmond;
+    color: white;
 }
 
 body {
@@ -21,6 +21,7 @@ body {
 
 body img {
     margin: 0 0 0 0;
+    
 }
 
 
@@ -43,11 +44,12 @@ nav ul li a{
     margin-right: 20px;
     border-radius: 5px;
     box-shadow: 2px 2px 1px black;
+    color: black;
 }
 
 nav ul li a:hover {
-    color: black;
-    background: blue;
+    color: red;
+    background: black;
     
 }
 
@@ -56,4 +58,37 @@ body footer{
     text-align: center;
     text-decoration: black;
     height: 90%;
+}
+
+div .container{
+    
+}
+
+button{
+    text-align:center;
+    background-color: brown;
+    text-decoration-color: black;
+    width: 10%;
+    height: auto;
+}
+
+.album{
+    width: 33%;
+    float: left;
+    text-align:center;
+}
+
+.album a{
+    text-decoration: none;
+    color:#FFF;
+}
+
+.album img{
+    width: 100%; 
+    height: 300px;
+    display: block;
+}
+
+form label{
+    color: white;
 }
