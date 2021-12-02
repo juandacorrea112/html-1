@@ -60,9 +60,8 @@ body footer{
     height: 90%;
 }
 
-div .container{
-    
-}
+
+
 
 button{
     text-align:center;
@@ -80,7 +79,7 @@ button{
 
 .album a{
     text-decoration: none;
-    color:#FFF;
+    color:white;
 }
 
 .album img{
@@ -91,4 +90,56 @@ button{
 
 form label{
     color: white;
+}
+
+.album2{
+    width: 33%;
+    float: left;
+    text-align: center;
+}
+
+.album2 a{
+    text-decoration: none;
+    color: white;
+}
+
+.album2 img {
+    width: 100%;
+    height: 300px;
+    display: block;
+}
+
+.album3{
+    width: 33%;
+    float: left;
+    text-align: center;
+}
+
+.album3 a{
+    text-decoration: none;
+    color: white;
+}
+
+.album3 img{
+    width: 100%;
+    height: 300px;
+    display: block;
+}
+
+.album4{
+    width: 33%;
+    float: left;
+    text-align: center;
+
+}
+
+.album4 a{
+    text-decoration: none;
+    color: white;
+}
+
+.album4 img{
+    width: 100%;
+    height: 300px;
+    display: block;
 }
